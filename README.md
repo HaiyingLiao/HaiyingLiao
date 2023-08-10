@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Haiying Liao </h2>
 
+<a align="left">My email: haiying.liao@outlook.com </a>
+
 ### 
 
 <div align="left">
