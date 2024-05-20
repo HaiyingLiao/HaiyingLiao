@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Haiying Liao </h2>
+<h2 align="left">Hi 👋! My name is Haiying Holloway </h2>
 
 <a align="left">My email: haiying.liao@outlook.com </a>
 
