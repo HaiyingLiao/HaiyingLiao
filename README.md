@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Haiying Holloway </h2>
 
-<a align="left">My email: haiying.liao@outlook.com </a>
+<a align="left">My email: haiying1.liao@gmail.com </a>
 
 ### 
 
